@@ -1,6 +1,5 @@
-## ポートフォリオ
-You can use the [editor on GitHub](https://github.com/kono1029/kono1029.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## このページについて
+勉強した成果や技術書レビューの記録です。
 
 ### 技術書レビュー
 
