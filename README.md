@@ -2,4 +2,4 @@
 
 ## Links
 
-### [Slack](https://github.com/kono1029/kono1029.github.io/issues/1)
+[Slack 導入を成功に導く！ベストプラクティス コンテンツ](https://slack-success.splashthat.com/)
